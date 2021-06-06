@@ -18,7 +18,7 @@ I developed the backend and frontend for write operations only.<br>
     -○ /add_marks (for post)<br>
  <br>
 <h2>See it in action</h2>
-Everything is self-explanatory.
+Everything is self-explanatory.<br>
 Before any student record is added.
 <img src="https://github.com/devanujpatel/School-exam-manager/blob/main/images/no%20student%20found.png"/>
 <br>
