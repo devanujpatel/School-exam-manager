@@ -8,14 +8,14 @@ The MySql schema only consists of three tables- students, marks, subjects.<br>
 <br>
 <h2>HTTP endpoints</h2>
 I developed the backend and frontend for write operations only.<br>
-    -○/index.html <br>
-    -○ /students_page.html<br>
-    -○ /students/add (for post)<br>
-    -○ /subjects_page.html<br>
-    -○ /subjects/add (for post)<br>
-    -○ /marks.html<br>
-    -○ /marks_main (for post)<br>
-    -○ /add_marks (for post)<br>
+    - /index.html <br>
+    - /students_page.html<br>
+    - /students/add (for post)<br>
+    - /subjects_page.html<br>
+    - /subjects/add (for post)<br>
+    - /marks.html<br>
+    - /marks_main (for post)<br>
+    - /add_marks (for post)<br>
  <br>
 <h2>See it in action</h2>
 Everything is self-explanatory.<br>
